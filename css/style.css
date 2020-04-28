@@ -371,7 +371,7 @@ body {
 }
 
 .partners__subheader {
-  background: url("../img/BG-Header_2.png") -33px -690px/100% auto no-repeat;
+  background: url('../img/BG-Header_2.png') 0px 0px/cover no-repeat;
   min-height: 390px;
   padding: 100px 0 0 0;
 }
